@@ -2,6 +2,7 @@ OpenMVG (open Multiple View Geometry)
 =====================================
 
 ![Logo](https://github.com/openMVG/openMVG/raw/master/logo/openMVG_Logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2FopenMVG.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2FopenMVG?ref=badge_shield)
 
 Introduction
 ------------
@@ -82,3 +83,7 @@ or cite it as:
   }
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2FopenMVG.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2FopenMVG?ref=badge_large)
